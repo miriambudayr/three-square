@@ -1,0 +1,28 @@
+.header {
+  background: linear-gradient(19deg, #21d4fd, #026aa7);
+  color: white;
+  font-family: 'Assistant', sans-serif;
+  height: 120px;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  z-index: -1;
+}
+
+.header-inner {
+  margin-top: 30px;
+}
+
+.title {
+  display: inline-block;
+  font-size: 40px;
+  font-weight: 600;
+  margin-left: 20px;
+  text-transform: uppercase;
+}
+
+.controls-container {
+  float: right;
+  margin-top: 10px;
+  width: 200px;
+}

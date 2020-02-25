@@ -1,0 +1,12 @@
+.container {
+  text-align: center;
+  margin: 100px auto;
+  width: 1200px;
+  padding-top: 40px;
+  display: block;
+  font-family: 'Assistant', sans-serif;
+}
+
+h1 {
+  text-align: center;
+}

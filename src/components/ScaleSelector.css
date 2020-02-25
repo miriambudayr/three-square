@@ -1,0 +1,25 @@
+.scale-selector {
+  display: inline-block;
+  margin-top: 6px;
+}
+
+.scale-selector select {
+  background: transparent;
+  border: 2px solid #fff;
+  border-radius: 6px;
+  color: #fff;
+  font-family: 'Assistant', sans-serif;
+  font-size: 1em;
+  line-height: 1;
+  z-index: 10;
+}
+
+.edit {
+  cursor: pointer;
+  fill: #fff;
+  height: 24px;
+  position: absolute;
+  right: 224px;
+  vertical-align: middle;
+  width: 24px;
+}

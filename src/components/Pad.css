@@ -1,0 +1,28 @@
+.pad-triggered,
+.pad-active,
+.pad-inactive,
+.pad-disabled {
+  border: 1px solid #eee;
+  box-shadow: 0 0 6px rgba(50, 50, 50, 0.3);
+  display: inline-block;
+  height: 37px;
+  margin-left: 4px;
+  width: 37px;
+}
+
+.pad-triggered {
+  background: #026aa7;
+  opacity: 0.5;
+}
+
+.pad-active {
+  background: #026aa7;
+}
+
+.pad-inactive {
+  background-color: white;
+}
+
+.pad-disabled {
+  background-color: #eee;
+}

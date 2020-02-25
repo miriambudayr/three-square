@@ -1,0 +1,12 @@
+.global-controls {
+  display: inline-block;
+  margin-left: 20px;
+  vertical-align: middle;
+}
+
+.player-button {
+  display: inline-block;
+  fill: #fff;
+  height: 30px;
+  width: 30px;
+}
