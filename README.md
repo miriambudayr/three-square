@@ -1,4 +1,4 @@
-#Three Square
+# Three Square
 
 Built using React, Redux, Tone.js.
 
@@ -8,7 +8,7 @@ Live Demo: https://three-square-app.herokuapp.com/
 
 Video: https://youtu.be/201m1UCSkKA
 
-###Todo:
+### Todo:
 
 -Add loading bar for page load.
 
