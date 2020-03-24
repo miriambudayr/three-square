@@ -12,9 +12,7 @@ Video: https://youtu.be/201m1UCSkKA
 
 -Add loading bar for page load.
 
--Improve load time in general.
-
--Add feature that lets user shift all notes up/downto easily create melodic variation.
+-Add feature that lets user shift all notes up/down to easily create melodic variation.
 
 -Build back end so users can register and save snapshots and scale presets.
 
